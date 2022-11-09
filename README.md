@@ -1,5 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=header"/>
 <div align="center">
- <H1>Opa! Eu sou o Pedro Lucas.</H1>
 
  📊 Futuro Analista e Desenvolvedor de Sistemas (2/3)<br>
  📚 Estudando Html, Css, Js e Banco de dados
