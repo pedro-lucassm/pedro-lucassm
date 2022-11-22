@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hllo!+My+name+is+Pedro+Lucas+Silva+Magalhães;I'm+18+years+old;I'm+from+Timóteo-MG;Future+System+Analyst+and+Developer+(2/3);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-lucassm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Lucas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-lucassm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+<a href="https://github.com/pedro-lucassm">
+  <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-lucassm&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-lucassm&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 
