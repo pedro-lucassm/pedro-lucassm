@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hllo!+My+name+is+Pedro+Lucas+Silva+Magalhães;I'm+18+years+old;I'm+from+Timóteo-MG;Future+System+Analyst+and+Developer+(2/3);Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hllo!+My+name+is+Pedro+Lucas+Silva+Magalhães;I'm+18+years+old;I'm+from+Timóteo-MG;Future+System+Analyst+and+Developer+(3/3);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://github.com/pedro-lucassm">
