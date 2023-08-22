@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hllo!+My+name+is+Pedro+Lucas+Silva+Magalhães;I'm+18+years+old;I'm+from+Timóteo-MG;Future+System+Analyst+and+Developer+(3/3);Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hllo!+My+name+is+Pedro+Lucas+Silva+Magalhães;I'm+19+years+old;I'm+from+Timóteo-MG;+Systems+Analyst+and+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <div align="center">
 <a href="https://github.com/pedro-lucassm">
@@ -20,7 +22,6 @@
  
 
  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=pedro-lucassm&theme=gotham&hide_border=true&area=true)
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=blue&labelColor=0D1117)&nbsp;
