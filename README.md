@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://github.com/pedro-lucassm">
   <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-lucassm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-lucassm&layout=compact&langs_count=7&theme=onedark"/>
+  <img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-lucassm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
