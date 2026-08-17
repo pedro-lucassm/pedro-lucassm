@@ -5,9 +5,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <div align="center" valign="top"><br>
-  
-
- <img 
+   <img 
     align="center" 
     alt="PYTHON"
     title="PYTHON" 
@@ -73,43 +71,26 @@
   />
 
 </div>
-
+  
+<br>
 
  <div align="center">
-  <img
-    height="165"
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-stats-extended.vercel.app/api/?username=pedro-lucassm&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&title_color=7204B3&icon_color=7204B3&text_color=FFFFFF&bg_color=0D1117&border_color=0D1117&font=Iosevka"
-  />
-
-  <img
-    height="165"
-    align="center"
-    alt="Top Languages"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedro-lucassm&layout=compact&langs_count=8&theme=midnight-purple&title_color=7204B3&text_color=FFFFFF&bg_color=0D1117&border_color=0D1117&font=Iosevka"
-  />
-
-  <br>
-  <br>
-
   <img
     align="center"
     alt="GitHub Profile Details"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-lucassm&theme=midnight_purple"
-  />
+  />   
+  
+  <br>
+
+  <img src="https://raw.githubusercontent.com/pedro-lucassm/pedro-lucassm/output/snake.svg" alt="Snake Animation" />
 </div>
 
-
-
 <br>
- 
 
-
-
-  <div align="center">
+<div align="center">
   <a href="https://instagram.com/pedro__lucassm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedromagalhaesofc2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-lucassm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7204B3&height=120&section=footer"/>
